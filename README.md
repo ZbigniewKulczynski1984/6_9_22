@@ -4,6 +4,7 @@ Hidden search widget
 ##Build with
 - HTML
 - CSS
+- JS
 
 ##
 Author
